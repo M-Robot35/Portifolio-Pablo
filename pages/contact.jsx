@@ -2,10 +2,8 @@ import { useState } from 'react';
 import BannerLayout from '../components/Common/BannerLayout';
 import { FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa'
 import Link from 'next/link';
-import { SiUpwork } from 'react-icons/si'
 import { HiMail, HiUser } from 'react-icons/hi'
 import { BsChatTextFill } from 'react-icons/bs'
-import Fiverr_Icon from '../components/Fiverr_Icon';
 import Footer from '../components/Footer';
 import { Modal } from 'antd';
 import { DETAILS, CONTACTS,SOCIAL_LINKS } from '../constants/constants';
@@ -22,15 +20,15 @@ const Contact = () => {
                     <div className="flex flex-col md:flex-row items-center gap-5 text-xs">
                         <div className="card_stylings w-full md:w-1/2 p-5 md:p-6 lg:p-8 flex flex-col gap-y-4">
                             <div className="flex justify-between items-center">
-                                <span className='md:text-base'>Country:</span>
+                                <span className='md:text-base'>País:</span>
                                 <span className='text-LightGray md:text-sm'>{DETAILS.Residence}</span>
                             </div>
                             <div className="flex justify-between items-center">
-                                <span className='md:text-base'>City:</span>
+                                <span className='md:text-base'>Cidade:</span>
                                 <span className='text-LightGray md:text-sm'>{DETAILS.City}</span>
                             </div>
                             <div className="flex justify-between items-center">
-                                <span className='md:text-base'>Company:</span>
+                                <span className='md:text-base'>Empresa:</span>
                                 <span className='text-LightGray md:text-sm'>{DETAILS.company}</span>
                             </div>
                         </div>
@@ -44,7 +42,7 @@ const Contact = () => {
                                 <span className='text-LightGray text-sm'>{SOCIAL_LINKS.LINKEDIN}</span>
                             </div>
                             <div className="flex justify-between items-center">
-                                <span className='md:text-base'>Phone:</span>
+                                <span className='md:text-base'>Telefone:</span>
                                 <span className='text-LightGray text-sm'>{CONTACTS.PHONE}</span>
                             </div>
                         </div>
@@ -61,7 +59,7 @@ const Contact = () => {
 
 
                 <div className="my-12 w-full h-auto text-Snow">
-                    <h1 className='text-lg font-bold'>Get In Touch</h1>
+                    <h1 className='text-lg font-bold'>Entrar em Contato</h1>
                     <div className="mt-4 py-8 px-8 bg-EveningBlack rounded-xl text-sm">
                         <div>
                             <div className="flex flex-col w-full">
@@ -92,7 +90,7 @@ const Contact = () => {
                             </div>
 
                             <div className="my-4">
-                                <button onClick={() => setIsOpen(true)} className="button"> SEND MESSAGE </button>
+                                <button onClick={() => setIsOpen(true)} className="button"> ENVIAR MENSAGEM </button>
                             </div>
                         </div>
                     </div>

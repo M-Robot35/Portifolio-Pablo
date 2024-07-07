@@ -13,7 +13,7 @@ const Contact = () => {
         </span>
       </div>
       <div className='flex flex-col'>
-        <span className='text-Snow text-xs font-bold'>Phone</span>
+        <span className='text-Snow text-xs font-bold'>Telefone</span>
         <span className='text-xs text-gray-600'>{CONTACTS.PHONE}</span>
       </div>
     </div>

@@ -8,10 +8,10 @@ export const DESIGNATION = `Analista de Dados | Inteligência de Negócios | Clo
 const dataNascimento= 1998
 
 export const DETAILS = {
-  Residence: 'BH',
+  Residence: 'Brasil',
   City: 'Belo Horizonte',
   Age: dateCurrent() - dataNascimento,
-  company:'VisualX'
+  company:'Open Work'
 };
 
 export const SKILLS = [
@@ -90,6 +90,7 @@ export const CONTACTS = {
   EMAIL: 'pramires593@gmail.com',
   PHONE: '+5531982287315',
 };
+
 export const SOCIAL_LINKS = {
   GITHUB: '#',
   LINKEDIN: 'https://linkedin.com/in/pablo-ramires-4124411a4',
