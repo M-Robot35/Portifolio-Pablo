@@ -7,19 +7,16 @@ const portfolio = [
         projectDetail: "Restructure seu negócio com o ERP da JMM, uma solução completa baseada em nuvem. Utilizei SQL, Power BI e Python para analisar dados de desempenho e fornecer insights estratégicos.",
         technologiesUsed: [
             {
-                tech: "SQL"
+                tech: "Estátistica"
+            },
+            {
+                tech: "Data Viz"
+            },
+            {
+                tech: "Rest Api"
             },
             {
                 tech: "Power BI"
-            },
-            {
-                tech: "Python"
-            },
-            {
-                tech: "REST API's"
-            },
-            {
-                tech: "Excel"
             },
         ]
     },
@@ -31,16 +28,16 @@ const portfolio = [
         projectDetail: "A ABSCO oferece soluções de consultoria empresarial sob medida. Desenvolvi dashboards interativos com Power BI para monitorar KPIs e apoiar a tomada de decisões.",
         technologiesUsed: [
             {
-                tech: "Power BI"
+                tech: "Estátistica"
             },
             {
-                tech: "Excel"
-            },
-            {
-                tech: "DAX"
+                tech: "Data Viz"
             },
             {
                 tech: "SQL"
+            },
+            {
+                tech: "Excel"
             },
         ]
     },
@@ -52,16 +49,16 @@ const portfolio = [
         projectDetail: "A é uma empresa de tecnologia com ampla experiência em soluções digitais. Análise de dados de clientes para identificar oportunidades de otimização.",
         technologiesUsed: [
             {
+                tech: "Estátistica"
+            },
+            {
+                tech: "Data Viz"
+            },
+            {
                 tech: "SQL"
             },
             {
-                tech: "Python"
-            },
-            {
-                tech: "Pandas"
-            },
-            {
-                tech: "NumPy"
+                tech: "Excel"
             },
         ]
     },
@@ -73,16 +70,16 @@ const portfolio = [
         projectDetail: "A ALSN promove a transformação digital com serviços de tradução de documentos. Realizei análise de dados de mercado para identificar novos nichos e oportunidades.",
         technologiesUsed: [
             {
+                tech: "Estátistica"
+            },
+            {
+                tech: "Data Viz"
+            },
+            {
                 tech: "SQL"
             },
             {
-                tech: "Python"
-            },
-            {
-                tech: "Seaborn"
-            },
-            {
-                tech: "Matplotlib"
+                tech: "Excel"
             },
         ]
     },
@@ -94,13 +91,13 @@ const portfolio = [
         projectDetail: "Invest in Saudi Arabia, simplifique o processo de obtenção de licenças e início de negócios com FirmSanad. Desenvolvi relatórios detalhados para acompanhamento de processos.",
         technologiesUsed: [
             {
+                tech: "Estátistica"
+            },
+            {
+                tech: "Data Viz"
+            },
+            {
                 tech: "SQL"
-            },
-            {
-                tech: "Power BI"
-            },
-            {
-                tech: "Azure"
             },
             {
                 tech: "Excel"
@@ -115,13 +112,13 @@ const portfolio = [
         projectDetail: "Fateh Al Mustaqbil é uma agência de viagens que oferece serviços personalizados. Utilizei análise de dados para entender o comportamento dos clientes e otimizar ofertas.",
         technologiesUsed: [
             {
+                tech: "Estátistica"
+            },
+            {
+                tech: "Data Viz"
+            },
+            {
                 tech: "SQL"
-            },
-            {
-                tech: "Google Analytics"
-            },
-            {
-                tech: "Python"
             },
             {
                 tech: "Excel"

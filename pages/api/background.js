@@ -61,7 +61,7 @@ const background = [
                 title: 'Faculdade Pitágoras - Curso Superior de Tecnologia (CST) em Análise e Desenvolvimento de Sistemas',
                 role: 'Projeto Pessoal - Desenvolvedor de Painéis de BI',
                 url: '#',
-                desc: 'Durante este curso, você aprendeu a projetar, desenvolver e gerenciar sistemas de informação. A formação incluiu linguagens de programação, estruturas de dados, banco de dados e engenharia de software. Você também adquiriu habilidades em análise de requisitos, desenvolvimento de aplicativos e gestão de projetos de TI',
+                desc: 'Durante este curso, eu aprendi a projetar, desenvolver e gerenciar sistemas de informação. A formação incluiu linguagens de programação, estruturas de dados, banco de dados e engenharia de software. eutambém adquiriu habilidades em análise de requisitos, desenvolvimento de aplicativos e gestão de projetos de TI',
                 year: 'Jan de 2022 - Jun de 2024',
                 location: 'Belo Horizonte'
             },
@@ -70,7 +70,7 @@ const background = [
                 title: 'Anhanguera Educacional - Postgraduate Degree em Data Science e Analytics',
                 role: 'Desenvolvimento de um Sistema de Recomendação',
                 url: '#',
-                desc: 'Neste curso de pós-graduação, você aprendeu técnicas avançadas de análise de dados, ciência de dados, machine learning e big data. A formação incluiu o uso de ferramentas e linguagens como Python, R, SQL e plataformas de visualização de dados. Você também estudou métodos estatísticos e algoritmos de machine learning para transformar dados em insights.',
+                desc: 'Neste curso de pós-graduação, eu aprendi técnicas avançadas de análise de dados, ciência de dados, machine learning e big data. A formação incluiu o uso de ferramentas e linguagens como Python, R, SQL e plataformas de visualização de dados. eutambém estudou métodos estatísticos e algoritmos de machine learning para transformar dados em insights.',
                 year: 'Feb de 2023 - Presente',
                 location: 'Belo Horizonte'
             },
